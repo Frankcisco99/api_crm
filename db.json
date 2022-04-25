@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Claudia",
+      "empresa": "Shalom Store",
+      "email": "claudia@claudia.com",
+      "telefono": "123456789",
+      "notas": "Cotización de ropas",
+      "id": 3
+    },
+    {
+      "nombre": "Alfredo",
+      "empresa": "Cproject",
+      "email": "alfredo@cproject.cl",
+      "telefono": "91234567",
+      "notas": "Ingeniero en automatización",
+      "id": 5
+    },
+    {
+      "nombre": "Simon",
+      "empresa": "Transporte y bencina",
+      "email": "simonf@mail.com",
+      "telefono": "912543678",
+      "notas": "Cotización de reten",
+      "id": 6
+    }
+  ]
+}
